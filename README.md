@@ -2,7 +2,9 @@
 
 Scripts to reproduce the results and figures of:
 
-> Giunta, Karchev & Trotta (2025), *The colour variability of low-z SNe Ia is entirely explained by dust*
+> Giunta, Karchev & Trotta (2026), *The colour variability of low-z SNe Ia is entirely explained by dust*
+>
+> [![arXiv](https://img.shields.io/badge/arXiv-2606.06593-b31b1b.svg)](https://arxiv.org/abs/2606.06593)
 
 The analysis uses the [simplebayesn](https://github.com/marco-giunta/simplebayesn) package, which must be installed first.
 
